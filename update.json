@@ -1,0 +1,11 @@
+{
+    "version":  400,
+    "appVersion":  "1.0.0",
+    "name":  "1.0.0",
+    "urls":  [
+                 "https://github.com/o054840/phonetop/releases/download/v1.0.0/Phonetop-Setup.exe"
+             ],
+    "size":  45861888,
+    "sha256":  "8e0d910f63f336c74f34f1fac1517299ee89c143f2a676b699a7003babb44316",
+    "notes":  "גרסה ראשונית בטא"
+}
